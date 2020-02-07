@@ -1,0 +1,7 @@
+pandas 
+jupyterlab 
+nodejs 
+npm 
+phantomjs-prebuilt 
+bokeh 
+ffmpeg
