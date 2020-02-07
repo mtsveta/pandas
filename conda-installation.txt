@@ -1,1 +1,3 @@
  conda create --name pandas pandas jupyterlab bokeh 
+
+ https://towardsdatascience.com/exploratory-data-analysis-with-pandas-and-jupyter-notebooks-36008090d813
