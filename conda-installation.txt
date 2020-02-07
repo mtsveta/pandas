@@ -1,0 +1,1 @@
+ conda create --name pandas pandas jupyterlab bokeh 
